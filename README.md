@@ -17,19 +17,4 @@ Post: './messages/new'
 Get: './messages/sync'
 
 
-#### 👉 Express js server  ####
-#### 👉 MongoDB to Store ####
-#### 👉 mongoose to access messages ####
-#### 👉 Pusher use to database realtime  ####
 
-Post: './messages/new'
-
-Get: './messages/sync'
-#### 👉 Express js server  ####
-#### 👉 MongoDB to Store ####
-#### 👉 mongoose to access messages ####
-#### 👉 Pusher use to database realtime  ####
-
-Post: './messages/new'
-
-Get: './messages/sync'
