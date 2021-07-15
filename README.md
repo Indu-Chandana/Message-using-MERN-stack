@@ -17,4 +17,8 @@ Post: './messages/new'
 Get: './messages/sync'
 
 
-
+#### 👉 Powered by Nodejs ####
+#### 👉 Express js server  ####
+#### 👉 MongoDB to Store ####
+#### 👉 mongoose to access messages ####
+#### 👉 Pusher use to database realtime  ####
